@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "generator-hubot": "^0.4.0",
+    "generator-hubot": "^1.1.0",
     "yo": "^3.1.1"
   }
 }
